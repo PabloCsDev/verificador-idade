@@ -1,0 +1,1 @@
+# O script calculará automaticamente a idade com base no ano de nascimento fornecido e, em seguida, exibirá uma mensagem de acordo com a faixa etária e o gênero selecionado. Além disso, uma imagem correspondente será exibida abaixo da mensagem.Caso o usuário insira um ano inexistente uma mensagen de ERROR irá ser disparada.
